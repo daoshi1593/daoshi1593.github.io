@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "这里是daoshi1593的个人主页"
 author_profile: true
 redirect_from: 
   - /about/
